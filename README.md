@@ -1,1 +1,2 @@
-# Self-defence-and-Virtual-assistant-for-visually-impaired-people.
+# AI-Hemanysys
+A RNN multi-classifier for classifying diagnosing Malaria, blood cancer, anemia and dengue.  
